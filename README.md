@@ -1,5 +1,5 @@
 # Weather forecasting for Kraków
-> The aim of this programme is to forecast average monthly temperature for Kraków, basing on provided observation dataset.
+> The aim of this programme is to forecast average monthly temperature for Kraków, basing on provided observational dataset.
 Undoubtedly, machine learning is an ideal way to evaluate time series.
 
 ## Table of contents
@@ -13,11 +13,10 @@ Undoubtedly, machine learning is an ideal way to evaluate time series.
 
 ## General info
 The problem is to predict the average value of monthly temperature for Kraków. The dataset provides the monthly temperature from January 2007 to August 2018.
-The dataset is credited to Makridakis and Wheelwright, 1989.
 
-You can learn more about this dataset and download it directly from DataMarket.
+It is credited to Institute of Meteorology and Water Management, Poland. 
 
-Download the dataset as a CSV file and place it in your current working directory with the filename “champagne.csv“.
+The dataset has been downloaded as a CSV file with the filename "Krakow_2007_2018.csv".
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
