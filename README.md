@@ -7,9 +7,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Status](#status)
 * [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Authors](#contact)
 
 ## General info
 Add more general information about project. What the purpose of the project is? Motivation?
@@ -29,20 +28,18 @@ Show examples of usage:
 `put-your-code-here`
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+List of features ready:
+* plotting a time series
+* plotting seasonal line plots
+* plotting density plot
+* plotting box and whisker plots
+* evaluating the best ARIMA model to the dataset
+* reviewing residual errors
+* making predictions for the new data 
 
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
-## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project inspired by machine learning tutorials shared on the website: https://machinelearningmastery.com/start-here/
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+## Authors 
+Created by Piotr Pigoń  and Aleksandra Pestka. 
