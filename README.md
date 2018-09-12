@@ -10,8 +10,8 @@ It is credited to Institute of Meteorology and Water Management, Poland.
 The dataset has been downloaded as a CSV file with the filename "Krakow_2007_2018.csv".
 
 ## Screenshots
-![Preview](./Capture.PNG)
-![Preview](./Capture2.PNG)
+![Preview](./image_examples/Capture.PNG)
+![Preview](./image_examples/Capture2.PNG)
 
 ## Technologies
 * Jupyter Notebook - version 5.6.0
