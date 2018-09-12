@@ -11,6 +11,7 @@ The dataset has been downloaded as a CSV file with the filename "Krakow_2007_201
 
 ## Screenshots
 ![Preview](./Capture.PNG)
+![Preview](./Capture2.PNG)
 
 ## Technologies
 * Jupyter Notebook - version 5.6.0
