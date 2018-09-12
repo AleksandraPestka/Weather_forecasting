@@ -11,7 +11,12 @@
 * [Authors](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The problem is to predict the average value of monthly temperature for Kraków. The dataset provides the monthly temperature from January 2007 to August 2018.
+The dataset is credited to Makridakis and Wheelwright, 1989.
+
+You can learn more about this dataset and download it directly from DataMarket.
+
+Download the dataset as a CSV file and place it in your current working directory with the filename “champagne.csv“.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
