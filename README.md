@@ -20,9 +20,9 @@ The dataset has been downloaded as a CSV file with the filename "Krakow_2007_201
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`def evaluate_models(dataset, p_values, d_values, q_values):
+## Code Example
+```
+def evaluate_models(dataset, p_values, d_values, q_values):
     dataset_values=dataset.values
     dataset_values = dataset.astype('float32')
     best_score, best_cfg = float("inf"), None
@@ -37,7 +37,8 @@ Show examples of usage:
                     print('ARIMA%s RMSE={:0.3f}'.format(order,mse))
                 except:
                     continue
-    print('Best ARIMA= {} RMSE= {:0.3f} '.format(best_cfg, best_score))`
+    print('Best ARIMA= {} RMSE= {:0.3f} '.format(best_cfg, best_score))
+```
 
 ## Features
 List of features ready:
