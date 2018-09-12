@@ -1,6 +1,6 @@
 # Weather forecasting for Kraków
 > The aim of this programme is to forecast average monthly temperature for Kraków, basing on provided observational dataset.
-Undoubtedly, machine learning is an ideal way to evaluate time series.
+Undoubtedly, machine learning is an ideal way to evaluate time series included this one. 
 
 ## Table of contents
 * [General info](#general-info)
