@@ -1,5 +1,5 @@
 # Weather forecasting for Kraków
-> The aim of this programme is to forecast average monthly temperature for Kraków, basing on provided observational dataset.
+> The purpose of this project is to forecast average monthly temperature for Kraków, basing on provided observational dataset.
 Undoubtedly, machine learning is an ideal way to evaluate time series included this one. 
 
 ## General info
