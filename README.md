@@ -12,7 +12,7 @@ The dataset has been downloaded as a CSV file with the filename "Krakow_2007_201
 ## Screenshots
 ![Preview](./image_examples/Capture.PNG)
 ![Preview](./image_examples/Capture2.PNG)
-
+![Preview](./image_examples/Capture3.PNG)
 ## Technologies
 * Jupyter Notebook - version 5.6.0
 >Jupyter Notebook documents are documents which contain both computer code and rich text elements. Notebook documents are both human-readable documents containing the analysis description and the results (figures, tables, etc..) as well as executable documents which can be run to perform data analysis.<br>(*based on: www.jupyter-notebook-beginner-guide.readthedocs.io*)
