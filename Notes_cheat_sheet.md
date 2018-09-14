@@ -84,7 +84,22 @@
 ```
   np.save('file.npy', array)
 ```
-
+- Copy a list (using list comprehension)
+```
+  history = [item for item in lst]
+```
+- Generate data
+```
+  times = list(pd.date_range('2018-09-01', periods=12, freq='MS')) # monthly data
+```
+- Print data in a specific format
+```
+   print('Month {:%Y-%m}'.format(data))
+```
+- Group Series by year
+```
+   groups = series['2007':'2017'].groupby(TimeGrouper('A'))
+```
 
 ## Plots
 
@@ -121,6 +136,14 @@
 - Add legend
 ```
   plt.legend()
+```
+- Fill between y1 and y2 line
+```
+   plt.fill_between(x,y1,y2, color='k', alpha=.15) #the lower the alpha, the brighter area
+```
+- Boxplot
+```
+  years.boxplot()
 ```
 
 
