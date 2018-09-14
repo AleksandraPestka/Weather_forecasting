@@ -22,7 +22,23 @@ The dataset has been downloaded as a CSV file with the filename "Krakow_2007_201
 * Python - version 3.7
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+In order to get insight into project results open **ARIMA.ipynb** file in one's browser. However if one wants to execute the whole code step by step, the Jupyter Notebooks is required to be installed on one's computer.
+
+There are some advices, which can be helful to setup your local environement.The easiest way for a beginner to get started with Jupyter Notebooks is by installing Anaconda.
+
+1. To get Anaconda, simply download the latest version of Anaconda for Python 3 using [this website](https://www.anaconda.com/) .
+Install Anaconda by following the instructions on the download page and/or in the executable.
+2. Open Git (if you do not have already installed it, click [here](https://git-scm.com/)) and clone the repo which contains ipynb notebook:
+```
+    $ git clone https://github.com/AleksandraPestka/Weather_forecasting/blob/master/ARIMA.ipynb
+```
+2. Go to the path where ipynb is cloned
+
+3. Open Jupyter notebook to see the file.
+```
+    jupyter notebook ARIMA.ipynb
+```
+
 
 ## Code Example
 ```
@@ -56,7 +72,7 @@ List of features ready:
 
 
 ## Inspiration
-Project inspired by machine learning tutorials shared on the website: https://machinelearningmastery.com/start-here/
+Project inspired by machine learning tutorials shared on the website: [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
 ## Authors 
 Created by Piotr Pigoń  and Aleksandra Pestka. 
