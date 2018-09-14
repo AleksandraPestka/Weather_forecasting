@@ -100,6 +100,11 @@
 ```
    groups = series['2007':'2017'].groupby(TimeGrouper('A'))
 ```
+- Print cutted string
+```
+  print('My string is : {:0.5}'.format('verylonglongstring')
+```
+
 
 ## Plots
 
@@ -145,14 +150,3 @@
 ```
   years.boxplot()
 ```
-
-
-
-
-
-
-
-
-
-
-
