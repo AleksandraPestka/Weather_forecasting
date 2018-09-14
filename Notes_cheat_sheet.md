@@ -41,3 +41,38 @@
   series.to_csv(filename_csv)
 ```
 
+## Plots
+
+- IMPORTANT thing is to clear the figure
+```
+  from matplotlib import pyplot as plt
+  ...
+  plt.clf()
+```
+- Set the size of figure
+```
+  plt.figure(figsize=(width,height))
+```
+- Display the grids
+```
+  plt.grid()
+```
+- Save fig
+```
+  plt.savefig(filename)
+```
+- Not to display ticks
+```
+  plt.xticks([]) #empty 
+```
+
+
+
+
+
+
+
+
+
+
+
