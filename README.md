@@ -22,7 +22,7 @@ The dataset has been downloaded as a CSV file with the filename "Krakow_2007_201
 * Python - version 3.7
 
 ## Setup
-In order to get insight into project results open **ARIMA.ipynb** file in one's browser. However if one wants to execute the whole code step by step, the Jupyter Notebooks is required to be installed on one's computer. A significant annotation is that all those files should be located in the same folder. 
+In order to get insight into project results open **ARIMA.ipynb** file in one's browser. However if one wants to execute the whole code step by step, the Jupyter Notebooks is required to be installed on one's computer. A significant annotation is that all those files (.ipynb, .py, .png, .csv) should be located in the same folder. 
 
 There are some advices, which can be helful to setup your local environement. The easiest way to get started with Jupyter Notebooks is by installing Anaconda.
 
