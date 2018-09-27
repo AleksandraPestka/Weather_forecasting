@@ -74,5 +74,5 @@ List of features ready:
 ## Inspiration
 Project inspired by machine learning tutorials shared on the website: [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 
-## Authors 
-Created by Aleksandra Pestka and Piotr Pigoń. 
+## Author 
+Created by Aleksandra Pestka. 
